@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ov-Manish
+- 👋 Hi, I’m Manish Sharma (@Ov-Manish)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Dev Project
