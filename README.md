@@ -2,9 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Dev Project
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- 📫 How to reach me : manishover.xo@gmail.com
 
 <!---
 Ov-Manish/Ov-Manish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
